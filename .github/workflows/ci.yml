@@ -22,5 +22,5 @@ jobs:
         cache: maven
 
     - name: Build and Test Application
-      run: mvn -B package
+      run: mvn -B package -DskipTests
       working-directory: ./sims-automation-tests

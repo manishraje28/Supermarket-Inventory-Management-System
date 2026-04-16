@@ -1,0 +1,14 @@
+sims\pages\DashboardPage.class
+sims\pages\StockPage.class
+sims\pages\SupplierPage.class
+sims\tests\SupplierManagementTest.class
+sims\tests\ProductManagementTest.class
+sims\tests\RBACTest.class
+sims\service\InventoryService.class
+sims\tests\WhiteBoxInventoryTest.class
+sims\tests\StockManagementTest.class
+sims\pages\LoginPage.class
+sims\pages\ProductPage.class
+sims\base\BaseTest.class
+sims\utils\TestDataReader.class
+sims\tests\LoginTest.class

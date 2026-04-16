@@ -1,0 +1,14 @@
+D:\sea-7\sims-automation-tests\src\test\java\sims\base\BaseTest.java
+D:\sea-7\sims-automation-tests\src\test\java\sims\pages\DashboardPage.java
+D:\sea-7\sims-automation-tests\src\test\java\sims\pages\LoginPage.java
+D:\sea-7\sims-automation-tests\src\test\java\sims\pages\ProductPage.java
+D:\sea-7\sims-automation-tests\src\test\java\sims\pages\StockPage.java
+D:\sea-7\sims-automation-tests\src\test\java\sims\pages\SupplierPage.java
+D:\sea-7\sims-automation-tests\src\test\java\sims\service\InventoryService.java
+D:\sea-7\sims-automation-tests\src\test\java\sims\tests\LoginTest.java
+D:\sea-7\sims-automation-tests\src\test\java\sims\tests\ProductManagementTest.java
+D:\sea-7\sims-automation-tests\src\test\java\sims\tests\RBACTest.java
+D:\sea-7\sims-automation-tests\src\test\java\sims\tests\StockManagementTest.java
+D:\sea-7\sims-automation-tests\src\test\java\sims\tests\SupplierManagementTest.java
+D:\sea-7\sims-automation-tests\src\test\java\sims\tests\WhiteBoxInventoryTest.java
+D:\sea-7\sims-automation-tests\src\test\java\sims\utils\TestDataReader.java
